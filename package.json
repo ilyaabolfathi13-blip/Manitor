@@ -1,0 +1,12 @@
+{
+  "name": "edge-analytics-collector",
+  "version": "4.2.0",
+  "description": "A high-performance edge function for monitoring system health and latency metrics.",
+  "private": true,
+  "author": "CloudOps Team",
+  "license": "MIT",
+  "scripts": {
+    "start": "next start",
+    "build": "next build"
+  }
+}
